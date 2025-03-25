@@ -1,12 +1,71 @@
-# React + Vite
+# Discord Colored Text Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Note**: This project was created as part of a coding assignment to demonstrate React and modern web development skills.
 
-Currently, two official plugins are available:
+A modern web application built with React and Vite that helps users generate and format colored text for Discord messages. This tool makes it easy to create eye-catching messages while adhering to Discord's markdown formatting.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Assignment Overview
 
-## Expanding the ESLint configuration
+This project was developed as a coding assignment with the following objectives:
+- Demonstrate proficiency in React development
+- Implement a modern UI using Mantine components
+- Show understanding of state management and user interactions
+- Create a practical tool with real-world application
+- Practice proper project documentation and setup
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Features
+
+- Real-time text color preview
+- Support for Discord markdown formatting
+- Modern, user-friendly interface built with Mantine UI
+- Copy-to-clipboard functionality
+- Mobile-responsive design
+
+## 🚀 Technologies Used
+
+- React 19
+- Vite 6
+- Mantine UI v7
+- Emotion for styling
+- ESLint for code quality
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/alimunfeddev/discord-colored-text-generator.git
+cd discord-colored-text-generator
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`
+
+## 🛠️ Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run lint` - Run ESLint
+- `npm run preview` - Preview production build
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/alimunfeddev/discord-colored-text-generator/issues).
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/alimunfeddev/discord-colored-text-generator)
+- [Report Bug](https://github.com/alimunfeddev/discord-colored-text-generator/issues)
+- [Request Feature](https://github.com/alimunfeddev/discord-colored-text-generator/issues)
