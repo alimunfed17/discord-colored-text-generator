@@ -1,17 +1,18 @@
 # Discord Colored Text Generator
 
-> **Note**: This project was created as part of a coding assignment to demonstrate React and modern web development skills.
+> **Note**: This project was created as part of a coding assignment to demonstrate React and modern web development skills for an internship opportunity.
 
 A modern web application built with React and Vite that helps users generate and format colored text for Discord messages. This tool makes it easy to create eye-catching messages while adhering to Discord's markdown formatting.
 
 ## 🎯 Assignment Overview
 
-This project was developed as a coding assignment with the following objectives:
+This project was developed as a coding assignment for an internship opportunity with the following objectives:
 - Demonstrate proficiency in React development
 - Implement a modern UI using Mantine components
 - Show understanding of state management and user interactions
 - Create a practical tool with real-world application
 - Practice proper project documentation and setup
+- Showcase skills relevant for the internship position
 
 ## 🌟 Features
 
